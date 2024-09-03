@@ -1,0 +1,72 @@
+. {
+    margin: 100%;
+    padding: 100%;
+}
+
+.traffic {
+    margin: 40px;
+    width: 600px;
+    height: 700px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    background-color: aqua;
+}
+
+.row {
+
+    height: 500px;
+    width: 400px;
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 100px;
+
+
+}
+
+.col-1 {
+
+    color: white;
+
+    height: 350px;
+    width: 150px;
+    border: 1px solid aqua;
+
+
+}
+
+.btn {
+    border: 2px solid black;
+    height: 50px;
+    width: 80px;
+    display: block;
+    justify-content: space-evenly;
+    border-radius: 6px;
+    margin: 60px;
+    color: white;
+    background-color: black;
+
+}
+
+.col-2 {
+    height: 350px;
+    width: 150px;
+    border: 1px solid black;
+    padding: 20px;
+    border-radius: 40px;
+    background-color: black;
+}
+
+.light {
+    height: 70px;
+    width: 70px;
+    border-radius: 50%;
+    background-color: gray;
+    border: 1px solid black;
+    display: block;
+    justify-content: space-evenly;
+
+    margin: 30px;
+
+}
